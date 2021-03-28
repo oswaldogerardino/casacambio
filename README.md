@@ -26,5 +26,10 @@ Este sistema está construido con las siguientes tecnologías:
 * Permisos: Los permisos de roles, permiten asignar a cada rol funcionalidades distintas, restringuiendo o dando acceso a las distintas funcionalidades del sistema.
 * Configuración: La configuración general permite al administrador, asignar el valor de la moneda que se usará de base para los cálculos, en base a esta moneda, se harán los cálculos internos necesarios para convertir la moneda principal en la moneda de su preferencia.
 
+## Demostración
+* URL: http://casacambio.oswscript.com/
+* Email: admin@admin.com
+* Contraseña: 123456
+
 ## Licencia
 Este sistema es de código abierto, para libre uso, distribución por parte de la comunidad de usuarios.
