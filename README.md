@@ -1,3 +1,5 @@
+<p align="center"><img src="https://oswscript.com/main_assets/images/logo.jpg" width="400"></p>
+
 # Descripción del Sistema Casa Cambio
 
 Casa cambio es un sistema de mini facturación, que permite principalmente realizar un proceso de facturación de un único producto monetario, cuyo valor puede ser asignado en la configuración. Alrededor de esta funcionalidad se encuentra control de entidades bancarias, control de facturas, posibilidad de asignar varios puntos de ventas centralizados, control de ingresos diarios por puntos de ventas, control de clientes,etc.
