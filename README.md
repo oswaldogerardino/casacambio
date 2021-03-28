@@ -1,3 +1,3 @@
-# QUE ES CASACAMBIO? #
+# Descripción
 
-ES LA VERSION PERSONAL EN DESARROLLO DE EL SISTEMA DE FACTURACION DE LA QUE SE BASA INTERGIROS
+Casa cambio es un sistema de mini facturacion, que permite principalmente realizar un proceso de facturación de un unico producto monetario, cuyo valor puede ser asignado en la configuración. Alrededor de esta funcionalidad se encuentra control de entidades bancarias, control de facturas, posibilidad de asignar varios puntos de ventas centralizados, control de ingresos diarios por puntos de ventas, control de clientes,etc.
